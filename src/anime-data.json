@@ -1,0 +1,59 @@
+
+[
+    {
+       "title":"Naruto",
+       "desc":"Naruto: Shippuden (TV Tokyo, 2007), also known as Naruto Shippuden, is a Japanese action anime series based on the manga by Masashi Kishimoto and a sequel to the original Naruto anime from Studio Pierrot animation studio. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+       "images":[
+          "naruto.jpg"
+       ]
+    },
+    {
+        "title":"Attack on Titan",
+        "desc":"Attack on Titan (MBS, 2013) is a Japanese fantasy anime television series adapted from the manga of the same name by Hajime Isayama from Wit Studio. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the Titans, gigantic humanoid beings who devour humans seemingly without reason",
+        "images":[
+           "aot.jpg"
+        ]
+    },
+    {
+        "title":"Hunter x Hunter",
+        "desc":"Hunter × Hunter (Fuji TV, 2011), also known as Hunter x Hunter (2011), is a Japanese action anime series based on the manga by Yoshihiro Togashi from Madhouse animation studio. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself, and meets new friends and challenges along the way.",
+        "images":[
+           "hxh.jpg"
+        ]
+    },
+    {
+        "title":"One-Punch Man",
+        "desc":"One-Punch Man (TV Tokyo, 2015) is a Japanese action anime series based on the webcomic by ONE from Madhouse animation studio. Saitama, a superhero who can defeat any opponent with a single punch, seeks to find a worthy foe after growing bored by a lack of challenge due to his overwhelming strength.",
+        "images":[
+           "opm.jpg"
+        ]
+    },
+    {
+        "title":"Fullmetal Alchemist: Brotherhood",
+        "desc":"Fullmetal Alchemist: Brotherhood (JNN, 2009) is a Japanese fantasy anime series based on the manga by Hiromu Arakawa from Bones Studio. Fullmetal Alchemist: Brotherhood is the second anime television series based on Fullmetal Alchemist, the first being 2003's Fullmetal Alchemist. The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+        "images":[
+           "fma.jpg"
+        ]
+    },
+    {
+        "title":"My Hero Academia",
+        "desc":"My Hero Academia (MBS, 2016) is a Japanese action anime series based on the manga by Kohei Horikoshi from Bones Studios. Izuku Midoriya, a boy born without superpowers (called Quirks) in a world where they have become commonplace, is scouted by Japan's greatest hero, who shares his Quirk with Midoriya after recognizing his potential.",
+        "images":[
+           "mha.jpg"
+        ]
+    },
+    {
+        "title":"Tokyo Ghoul",
+        "desc":"Tokyo Ghoul (Tokyo MX, 2014) is a Japanese dark fantasy anime series based on the manga by Sui Ishida from Studio Pierrot animation studio. A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh, and becomes a half ghoul.",
+        "images":[
+           "tokyog.jpg"
+        ]
+    },
+    {
+        "title":"Death Note",
+        "desc":"Death Note (Madhouse, 2006) is a Japanese supernatural thriller anime series based on the manga by Tsugumi Ohba and Takeshi Obata. The story follows Light Yagami, a teen genius who stumbles across a mysterious otherworldly notebook: the , which belonged to the Shinigami Ryuk and grants the user the supernatural ability to kill anyone whose name is written in its pages.",
+        "images":[
+           "dn.jpg"
+        ]
+    }
+]
