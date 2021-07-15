@@ -25,4 +25,4 @@ function Details(props) {
     );
 }
 
-export default POPOSDetails;
+export default Details;
