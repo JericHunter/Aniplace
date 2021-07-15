@@ -8,23 +8,17 @@ function List(props) {
 
     const spaces = data.filter((obj) => {
         const inTitle = obj.title.toLowerCase().includes(query.toLowerCase());
-        const inAddress = obj.title.toLowerCase().includes(query.toLowerCase());
 
-        return inTitle | inAddress;
+        return inTitle;
     }).map((obj) => {
-        const { title, address, images, id } = obj;
-        let { hours } = obj;
+        const { title, images, id } = obj;
 
-        if (hours.length === 0) {
-            hours = "Unknown Hours"
-        }
-        
         return (
-          <Space 
-            id={id} 
-            key={title} 
-            name={title} 
-            image={images[0]} 
+          <Space
+            id={id}
+            key={title}
+            name={title}
+            image={images[0]}
           />
         )
     })
