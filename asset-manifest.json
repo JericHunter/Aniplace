@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aniplace/static/css/main.cd6120c3.chunk.css",
+    "main.js": "/Aniplace/static/js/main.fc408d70.chunk.js",
+    "main.js.map": "/Aniplace/static/js/main.fc408d70.chunk.js.map",
+    "runtime-main.js": "/Aniplace/static/js/runtime-main.a88fe5ce.js",
+    "runtime-main.js.map": "/Aniplace/static/js/runtime-main.a88fe5ce.js.map",
+    "static/js/2.d920c889.chunk.js": "/Aniplace/static/js/2.d920c889.chunk.js",
+    "static/js/2.d920c889.chunk.js.map": "/Aniplace/static/js/2.d920c889.chunk.js.map",
+    "static/js/3.0bda9074.chunk.js": "/Aniplace/static/js/3.0bda9074.chunk.js",
+    "static/js/3.0bda9074.chunk.js.map": "/Aniplace/static/js/3.0bda9074.chunk.js.map",
+    "index.html": "/Aniplace/index.html",
+    "static/css/main.cd6120c3.chunk.css.map": "/Aniplace/static/css/main.cd6120c3.chunk.css.map",
+    "static/js/2.d920c889.chunk.js.LICENSE.txt": "/Aniplace/static/js/2.d920c889.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a88fe5ce.js",
+    "static/js/2.d920c889.chunk.js",
+    "static/css/main.cd6120c3.chunk.css",
+    "static/js/main.fc408d70.chunk.js"
+  ]
+}
